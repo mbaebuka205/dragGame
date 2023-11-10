@@ -1,0 +1,35 @@
+
+[
+    {
+        "_id": "6549ca26148c032896f93ac9",
+        "name": "apple",
+        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3AmuXb0MLs8jBzXYCpaJrDXlTrhdsLO0SQfyKqQiXIIh8Qn__",
+        "createdAt": "2023-11-07T05:24:54.178Z",
+        "updatedAt": "2023-11-07T05:24:54.178Z",
+        "__v": 0
+    },
+    {
+        "_id": "6549ca14148c032896f93ac7",
+        "name": "ball",
+        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnEOtJ1doQD-XW2qfg4P3WCXsn2o3ruV_BbGDpBvVkhM64Y2Ym",
+        "createdAt": "2023-11-07T05:24:36.823Z",
+        "updatedAt": "2023-11-07T05:24:36.823Z",
+        "__v": 0
+    },
+    {
+        "_id": "6549c9d3148c032896f93ac3",
+        "name": "cat",
+        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_a2LeWpTeb_loTa4oxt87iA2U8GnhNuxoORi5zdTOTU3FchNF",
+        "createdAt": "2023-11-07T05:23:31.182Z",
+        "updatedAt": "2023-11-07T05:23:31.182Z",
+        "__v": 0
+    },
+    {
+        "_id": "6549c9fb148c032896f93ac5",
+        "name": "dog",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4rbQDyETKRghqfU4x_BdI0pJvG_6GZT9ExdCdXnmXzlo7bgG",
+        "createdAt": "2023-11-07T05:24:11.247Z",
+        "updatedAt": "2023-11-07T05:24:11.247Z",
+        "__v": 0
+    }
+]
